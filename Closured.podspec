@@ -3,7 +3,7 @@ Pod::Spec.new do |spec|
 
 
   spec.name         = "Closured"
-  spec.version      = "v1.0.0-beta"
+  spec.version      = "1.0.0"
   spec.summary      = "Pure Swift Library To Manage Closures"
 
 
